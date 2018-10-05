@@ -35,8 +35,8 @@ yarn run storybook
 ## Release History
 
 - 0.0.1
-  - Project Init
-  - Add `LICENSE`
+  - Done project initialization.
+  - Added `LICENSE`.
 
 ## Meta
 
@@ -46,6 +46,12 @@ Distributed under the MIT license. See `LICENSE` for more information.
 
 [https://github.com/ivatsu/](https://github.com/ivatsu/)
 
+## Built With:
+
+- [React](https://reactjs.org/)
+- [Storybook](https://storybook.js.org/)
+
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
+- Hat tip to anyone whose code was used.
+- Made with <span style="color: #e25555;">&#9829;</span> in Estonia.
