@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "git@github.com:IvaTsu/react-storybook-config.git",
   "author": "IvaTsu <ivan.tsud@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@storybook/react": "^3.4.11"
+  }
 }
