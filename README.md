@@ -4,7 +4,6 @@
 
 ![react](https://img.shields.io/badge/react-v16.5.2-blue.svg)
 ![storybook](https://img.shields.io/badge/storybook-v4.0.0@alpha24-ff69b4.svg)
-![release](https://img.shields.io/badge/release-v0.0.1-brightgreen.svg)
 
 The purpose of this config is to provide a handy and easy way to run React with Storybook smoothly.
 
@@ -31,12 +30,6 @@ yarn
 ```sh
 yarn run storybook
 ```
-
-## Release History
-
-- 0.0.1
-  - Done project initialization.
-  - Added `LICENSE`.
 
 ## Meta
 
