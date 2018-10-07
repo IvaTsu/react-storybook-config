@@ -35,7 +35,7 @@ yarn run storybook
 
 Ivan Tsud – [@JStr00per](https://twitter.com/JStr00per) – ivts@tuta.io
 
-Distributed under the MIT license. See `LICENSE` for more information.
+Distributed under the MIT license. See [LICENSE](LICENSE) for more information.
 
 [https://github.com/ivatsu/](https://github.com/ivatsu/)
 
