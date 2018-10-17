@@ -46,7 +46,7 @@ Distributed under the MIT license. See [LICENSE](LICENSE) for more information.
 
 ## References:
 
-- [React + Storybook config guide](https://github.com/IvaTsu/first-good-js-reference/blob/master/Projects/React-Storybook-Config.md)
+- [Guide on 'React + Storybook' config](https://github.com/IvaTsu/first-good-js-reference/blob/master/Projects/React-Storybook-Config.md)
 
 ## Acknowledgments
 
